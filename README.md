@@ -30,6 +30,10 @@ Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch | Transformers
 **Tools:**  
 Git | GitHub | VS Code | Jupyter | Power BI  
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+
 ---
 
 ## 📌 Featured Projects
