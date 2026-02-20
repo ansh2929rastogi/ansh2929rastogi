@@ -43,8 +43,8 @@ Git | GitHub | VS Code | Jupyter | Power BI
 
 ## 📫 Connect With Me
 
-LinkedIn: (Add your link)  
-Email: (Add your email)
+LinkedIn:  https://www.linkedin.com/in/sanskar-rastogi-9214b1218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Email: Rastogiansh2003@gmail.com
 
 ---
 
