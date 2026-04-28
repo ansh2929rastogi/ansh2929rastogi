@@ -2,7 +2,7 @@
 
 🎯 AI/ML Enthusiast | Data Analyst | NLP Practitioner  
 📍 India  
-💼 Currently working in AI domain  
+💼  working in AI domain  
 
 ---
 
@@ -14,7 +14,7 @@ I enjoy solving real-world problems using Python, SQL, and modern AI frameworks.
 - 🔍 Strong in Data Analysis & EDA
 - 🤖 Worked on NLP & Transformer-based models
 - 📊 Experience with SQL & data pipelines
-- 🧠 Currently learning Deep Learning & Computer Vision
+- 🧠 Deep Learning & Computer Vision
 - 🚀 Interested in building scalable AI systems
 
 ---
